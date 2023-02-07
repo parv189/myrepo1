@@ -1,3 +1,7 @@
 some dummy text
 other line
+<<<<<<< HEAD
 this is last 
+=======
+this is 
+>>>>>>> 4e48632895ff19f693858a5ed841f9ebf00739dd
