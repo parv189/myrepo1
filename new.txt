@@ -1,2 +1,2 @@
-some dummy tex
+some dummy text
 other line
